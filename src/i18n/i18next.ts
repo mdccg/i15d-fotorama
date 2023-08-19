@@ -16,7 +16,7 @@ i18next
     fallbackLng: 'pt-BR',
     interpolation: {
       escapeValue: false,
-      format: (value, format, lng) => {
+      format: (value: any, format?: string, lng?: string) => {
         if (format === 'uppercase') {
           return value.toUpperCase();
         }
@@ -24,7 +24,7 @@ i18next
         if (value instanceof Date) {
           return formatDate(value, isMonthType(format) ? format : 'long', lng);
         }
-      } 
+      }
     },
     resources: {
       'pt-BR': pt,
