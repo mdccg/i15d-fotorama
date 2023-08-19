@@ -1,19 +1,19 @@
 {
   "translation": {
     "home": {
-      "filterInputPlaceholder": "Entrer le terme de recherche",
-      "mostRelevantCriteria": "Plus pertinent",
-      "mostRecentCriteria": "Plus récent",
-      "searchButton": "Rechercher",
-      "loadingMessage": "Chargement des résultats",
-      "currentPage": "Page {{page}} sur {{totalPages}}"
+      "filterInputPlaceholder": "Enter search term",
+      "mostRelevantCriteria": "Most relevant",
+      "mostRecentCriteria": "Most recent",
+      "searchButton": "Search",
+      "loadingMessage": "Loading results",
+      "currentPage": "Page {{page}} of {{totalPages}}"
     },
     "photoView": {
-      "creationDate": "Date de création : {{creationDate, long}}",
-      "backButton": "Retour"
+      "creationDate": "Creation date: {{creationDate, long}}",
+      "backButton": "Back"
     },
     "photoCard": {
-      "creationDate": "Créé le {{creationDate, 2-digit}}"
+      "creationDate": "Created on {{creationDate, 2-digit}}"
     }
   }
 }

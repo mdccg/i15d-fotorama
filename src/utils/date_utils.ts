@@ -12,7 +12,7 @@ export const formatDate = (
   ): string => {
   const dateFormatter = new Intl.DateTimeFormat(selectedLanguage, {
     day: 'numeric',
-    month: monthType,
+    month: monthType, // Esse é o vigarista (`Intl.DateTimeFormatOptions.month`)
     year: 'numeric',
   });
 

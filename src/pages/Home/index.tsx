@@ -1,7 +1,7 @@
 import { useState, useEffect, useContext } from 'react'
 
-import { Photo } from '../../models/Photo'
-import { PhotoService } from '../../service/PhotoService'
+import { Photo } from './../../models/Photo'
+import { PhotoService } from './../../service/PhotoService'
 import {
   Container,
   CriteriaOptionButton,
@@ -16,9 +16,9 @@ import {
   SearchArea,
   SearchButton,
 } from './styles'
-import loadingGif from '../../assets/img/loading.gif'
-import PhotoCard from '../../components/PhotoCard'
-import { UserContext } from '../../context/UserContext'
+import loadingGif from './../../assets/img/loading.gif'
+import PhotoCard from './../../components/PhotoCard'
+import { UserContext } from './../../context/UserContext'
 import { useTranslation } from 'react-i18next'
 
 const Home = () => {

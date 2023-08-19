@@ -7,7 +7,7 @@ const fixedBehavior = css`
   top:   16px;
 `;
 
-export const Shadow = styled.div`
+export const BackgroundGradient = styled.div`
   pointer-events: none;
   position: fixed;
   height: 72px;

@@ -1,6 +1,6 @@
 import { createApi, SearchOrderBy } from 'unsplash-js'
-import { PhotosDTO } from '../data-transports/PhotosDTO'
-import { Photo } from '../models/Photo'
+import { PhotosDTO } from './../data-transports/PhotosDTO'
+import { Photo } from './../models/Photo'
 
 const unsplash = createApi({
   accessKey: import.meta.env.VITE_UNSPLASH_ACCESS_KEY,

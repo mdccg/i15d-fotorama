@@ -1,5 +1,5 @@
 import { useTranslation } from 'react-i18next';
-import { Photo } from '../../models/Photo';
+import { Photo } from './../../models/Photo';
 import {
   CardContainer,
   InfoPanel,

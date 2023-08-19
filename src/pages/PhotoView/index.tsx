@@ -1,6 +1,6 @@
 import { useTranslation } from 'react-i18next'
 import { useLocation } from 'react-router-dom'
-import { Photo } from '../../models/Photo'
+import { Photo } from './../../models/Photo'
 import {
   BackButton,
   BackLink,

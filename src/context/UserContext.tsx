@@ -1,5 +1,5 @@
 import { createContext, ReactNode, useEffect, useState } from 'react'
-import { Photo } from '../models/Photo'
+import { Photo } from './../models/Photo'
 
 type UserContextType = {
   criteria: string
