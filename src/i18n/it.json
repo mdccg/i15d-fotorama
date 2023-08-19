@@ -1,0 +1,19 @@
+{
+  "translation": {
+    "home": {
+      "filterInputPlaceholder": "Inserisci termine di ricerca",
+      "mostRelevantCriteria": "Più rilevanti",
+      "mostRecentCriteria": "Più recenti",
+      "searchButton": "Cerca",
+      "loadingMessage": "Caricamento risultati",
+      "currentPage": "Pagina {{page}} di {{totalPages}}"
+    },
+    "photoView": {
+      "creationDate": "Data di creazione: {{creationDate, long}}",
+      "backButton": "Indietro"
+    },
+    "photoCard": {
+      "creationDate": "Creato il {{creationDate, 2-digit}}"
+    }
+  }
+}
