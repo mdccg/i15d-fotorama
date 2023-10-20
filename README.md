@@ -27,7 +27,7 @@ O objetivo principal deste repositório de código foi aprimorar um app existent
 
 Este foi o segundo repositório de código apresentado no [Curso Superior de TSI do IFMS](https://www.ifms.edu.br/campi/campus-aquidauana/cursos/graduacao/sistemas-para-internet/sistemas-para-internet) como requisito para obtenção da nota parcial das atividades da unidade curricular Linguagem de Programação IV.
 
-| [&larr; Repositório anterior](https://github.com/mdccg/i18n-demo) | [Próximo repositório &rarr;](#) |
+| [&larr; Repositório anterior](https://github.com/mdccg/i18n-demo) | [Próximo repositório &rarr;](https://github.com/mdccg/ai-que-fome-showcase) |
 |-|-|
 
 ## Pilha de tecnologia
